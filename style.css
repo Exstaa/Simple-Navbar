@@ -1,0 +1,23 @@
+ body {
+        background-color: lightgray;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+
+    ul {
+        padding: 0;
+        margin: 0;
+        overflow: hidden;
+        background-color: #333;
+    }
+
+    li {
+        float: left;
+        display: block;
+        color: white;
+        text-align: center;
+        padding: 15px;
+    }
+
+    li:hover {
+        background-color: #111;
+    }
